@@ -3,6 +3,7 @@
 **Título do TCC:** Impacto de Índices de Instabilidade Atmosférica no Desempenho de Modelos de Aprendizado de Máquina para Nowcasting de Precipitação
 
 **Alunos:** Ênnya Gomes
+
 **Semestre de Defesa:** 2026-1
 
 [PDF do TCC](caminho_do_arquivo)
