@@ -6,7 +6,7 @@
 
 **Semestre de Defesa:** 2026-1
 
-[PDF do TCC](TCC2_2026_EnnyaCampos.pdf)
+[PDF do TCC](./TCC2_2026_EnnyaCampos.pdf)
 
 
 # TL;DR
